@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jrmon8691
-- 👀 I’m interested in Python
+- 👀 I’m interested in Python, JS and React
 - 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on python and 
 - 📫 How to reach me by e-mail
